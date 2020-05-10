@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KreosCompanies/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/KreosCompanies/static/js/main.1f0e044a.chunk.js",
+    "main.js.map": "/KreosCompanies/static/js/main.1f0e044a.chunk.js.map",
+    "runtime-main.js": "/KreosCompanies/static/js/runtime-main.b5bd658f.js",
+    "runtime-main.js.map": "/KreosCompanies/static/js/runtime-main.b5bd658f.js.map",
+    "static/css/2.ed7b07da.chunk.css": "/KreosCompanies/static/css/2.ed7b07da.chunk.css",
+    "static/js/2.6c974183.chunk.js": "/KreosCompanies/static/js/2.6c974183.chunk.js",
+    "static/js/2.6c974183.chunk.js.map": "/KreosCompanies/static/js/2.6c974183.chunk.js.map",
+    "index.html": "/KreosCompanies/index.html",
+    "precache-manifest.327b11fad736017e24f2341acb25532b.js": "/KreosCompanies/precache-manifest.327b11fad736017e24f2341acb25532b.js",
+    "service-worker.js": "/KreosCompanies/service-worker.js",
+    "static/css/2.ed7b07da.chunk.css.map": "/KreosCompanies/static/css/2.ed7b07da.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/KreosCompanies/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6c974183.chunk.js.LICENSE.txt": "/KreosCompanies/static/js/2.6c974183.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/KreosCompanies/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/KreosCompanies/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5bd658f.js",
+    "static/css/2.ed7b07da.chunk.css",
+    "static/js/2.6c974183.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1f0e044a.chunk.js"
+  ]
+}
